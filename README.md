@@ -72,6 +72,10 @@ print ("------------------------------------------------------------------------
 
 ### gambar hasil program
 
-![Gambar 3](screenshot/ss3.png)
+![Gambar 4](screenshot/ss4.png)
+
+### flowchart
+
+![Gambar 5](flowchart/flow1.png)
 
 selesai
